@@ -1,0 +1,5 @@
+2025-04-19 10:36:56,449 - multi_format_logger -DEBUG - This is a debug massage
+2025-04-19 10:36:56,450 - multi_format_logger -INFO - This is a info massage
+2025-04-19 10:36:56,452 - multi_format_logger -ERROR - This is a error massage
+2025-04-19 10:36:56,454 - multi_format_logger -WARNING - This is a warning massage
+2025-04-19 10:36:56,455 - multi_format_logger -CRITICAL - This is a critical massage

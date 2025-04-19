@@ -8,3 +8,43 @@
 2024-06-19 12:26:04-root-WARNING-This is a warning message
 2024-06-19 12:26:04-root-ERROR-This is an error message
 2024-06-19 12:26:04-root-CRITICAL-This is a critical message
+DEBUG:root:This is a Debug Massage
+ERROR:root:This is a Error Massage
+WARNING:root:This is a Warning Massage
+INFO:root:This is a info Massage
+CRITICAL:root:This is a critical Massage
+DEBUG:my_logger:This is a debug message
+INFO:my_logger:This is an info message
+WARNING:my_logger:This is a warning message
+ERROR:my_logger:This is an error message
+CRITICAL:my_logger:This is a critical message
+2025-04-19 10:14:23,707 - my_logger - DEBUG - This is a debug message
+DEBUG:my_logger:This is a debug message
+2025-04-19 10:14:23,718 - my_logger - INFO - This is an info message
+INFO:my_logger:This is an info message
+2025-04-19 10:14:23,727 - my_logger - WARNING - This is a warning message
+WARNING:my_logger:This is a warning message
+2025-04-19 10:14:23,734 - my_logger - ERROR - This is an error message
+ERROR:my_logger:This is an error message
+2025-04-19 10:14:23,747 - my_logger - CRITICAL - This is a critical message
+CRITICAL:my_logger:This is a critical message
+2025-04-19 10:15:24,843 - my_logger - DEBUG - This is a debug message
+2025-04-19 10:15:24,843 - my_logger - DEBUG - This is a debug message
+DEBUG:my_logger:This is a debug message
+2025-04-19 10:15:24,851 - my_logger - INFO - This is an info message
+2025-04-19 10:15:24,851 - my_logger - INFO - This is an info message
+INFO:my_logger:This is an info message
+2025-04-19 10:15:24,851 - my_logger - WARNING - This is a warning message
+2025-04-19 10:15:24,851 - my_logger - WARNING - This is a warning message
+WARNING:my_logger:This is a warning message
+2025-04-19 10:15:24,867 - my_logger - ERROR - This is an error message
+2025-04-19 10:15:24,867 - my_logger - ERROR - This is an error message
+ERROR:my_logger:This is an error message
+2025-04-19 10:15:24,875 - my_logger - CRITICAL - This is a critical message
+2025-04-19 10:15:24,875 - my_logger - CRITICAL - This is a critical message
+CRITICAL:my_logger:This is a critical message
+2025-04-19 10:15:48,867 - my_logger - DEBUG - This is a debug message
+2025-04-19 10:15:48,869 - my_logger - INFO - This is an info message
+2025-04-19 10:15:48,871 - my_logger - WARNING - This is a warning message
+2025-04-19 10:15:48,873 - my_logger - ERROR - This is an error message
+2025-04-19 10:15:48,875 - my_logger - CRITICAL - This is a critical message

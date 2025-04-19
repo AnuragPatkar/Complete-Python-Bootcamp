@@ -1,0 +1,10 @@
+2025-04-19 10:26:21,648 - custom_logger - DEBUG - This is a debug massage
+2025-04-19 10:26:21,660 - custom_logger - INFO - This is a info massage
+2025-04-19 10:26:21,675 - custom_logger - ERROR - This is a error massage
+2025-04-19 10:26:21,689 - custom_logger - WARNING - This is a warning massage
+2025-04-19 10:26:21,698 - custom_logger - CRITICAL - This is a critical massage
+2025-04-19 10:26:33,194 - custom_logger - DEBUG - This is a debug massage
+2025-04-19 10:26:33,195 - custom_logger - INFO - This is a info massage
+2025-04-19 10:26:33,197 - custom_logger - ERROR - This is a error massage
+2025-04-19 10:26:33,199 - custom_logger - WARNING - This is a warning massage
+2025-04-19 10:26:33,203 - custom_logger - CRITICAL - This is a critical massage
