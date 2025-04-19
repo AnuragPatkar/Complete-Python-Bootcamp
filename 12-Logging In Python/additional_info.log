@@ -1,0 +1,5 @@
+2025-04-19 11:15:45,964 - additional_context - DEBUG -This is a debug massage -test_func -16 -UserID:user123 -SessionID:session456
+2025-04-19 11:15:45,964 - additional_context - INFO -This is a info massage -test_func -17 -UserID:user123 -SessionID:session456
+2025-04-19 11:15:45,964 - additional_context - ERROR -This is a error massage -test_func -18 -UserID:user123 -SessionID:session456
+2025-04-19 11:15:45,964 - additional_context - WARNING -This is a warning massage -test_func -19 -UserID:user123 -SessionID:session456
+2025-04-19 11:15:45,966 - additional_context - CRITICAL -This is a critical massage -test_func -20 -UserID:user123 -SessionID:session456
