@@ -7,3 +7,8 @@
 2025-04-19 11:06:54,537 - logger_include_contextual_info - WARNING -This is a warning massage -test_log -16
 2025-04-19 11:06:54,545 - logger_include_contextual_info - CRITICAL -This is a critical massage -test_log -17
 2025-04-19 11:06:54,545 - logger_include_contextual_info - CRITICAL -This is a critical massage -test_log -17
+2025-04-19 11:07:17,215 - logger_include_contextual_info - DEBUG -This is a debug massage -test_log -14
+2025-04-19 11:07:17,216 - logger_include_contextual_info - INFO -This is a info massage -test_log -15
+2025-04-19 11:07:17,216 - logger_include_contextual_info - ERROR -This is a error massage -test_log -16
+2025-04-19 11:07:17,216 - logger_include_contextual_info - WARNING -This is a warning massage -test_log -17
+2025-04-19 11:07:17,216 - logger_include_contextual_info - CRITICAL -This is a critical massage -test_log -18
